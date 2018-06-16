@@ -1,0 +1,17 @@
+{
+  "name": "eslint-plugin-import-1086",
+  "version": "1.0.0",
+  "description": "Reproduction of https://github.com/benmosher/eslint-plugin-import/issues/1086",
+  "main": "index.js",
+  "scripts": {
+    "start": "eslint index.js"
+  },
+  "author": "Justin Anastos <justin.anastos@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-plugin-import": "^2.12.0",
+    "typescript": "^2.9.2",
+    "typescript-eslint-parser": "^16.0.1"
+  }
+}
